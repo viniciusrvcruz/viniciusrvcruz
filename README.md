@@ -1,12 +1,14 @@
 <div align="center"><h1>Bem vindo! Eu sou Vinicius Roberto.</h1></div> 
 
-<div align="center" >
+<div align="center">
   <h4>Estou cursando Análise e Desenvolvimento de Sistemas na FATEC Jales.</h4>
 </div>
 
-<a href="https://github.com/viniciusrvcruz">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusrvcruz&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  <a href="https://github.com/viniciusrvcruz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusrvcruz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrvcruz&layout=compact&langs_count=7&theme=transparent&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
+</div>
 
 <div align="center"><h3>Tecnologias e Ferramentas</h3></div>
 <div align="center">

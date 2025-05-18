@@ -32,6 +32,8 @@ Olá! Me chamo Vinicius Cruz, sou desenvolvedor FullStack com formação em Aná
 <br/>
 <br/>
 
+---
+
 ### ✉️ Contato
 <p>
   <a href="https://www.linkedin.com/in/viniciuscruz7" target="_blank">

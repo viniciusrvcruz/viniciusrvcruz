@@ -51,6 +51,6 @@ Olá! Me chamo Vinicius Cruz, sou desenvolvedor FullStack com formação em Aná
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrvcruz&theme=tokyonight&layout=compact&custom_title=Estatísticas&langs_count=9" 
+      src="https://github-readme-stats-sage-nine-86.vercel.app/api/top-langs/?username=viniciusrvcruz&show_icons=true&theme=tokyonight&layout=compact" 
   />
 </p>

@@ -1,56 +1,130 @@
-# 🧑🏻‍💻 Vinicius Cruz
+<!-- HEADER GRADIENTE MODERNO -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Vinicius%20Cruz%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:00182E,100:006CB3&fontColor=ffffff&fontSize=40&desc=Desenvolvedor%20Full%20Stack%20|%20Vue%20•%20Laravel%20•%20PHP%20•%20TypeScript&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
-**`Desenvolvedor FullStack`**
-
-Olá! Me chamo Vinicius Cruz, sou desenvolvedor FullStack com formação em Análise e Desenvolvimento de Sistemas. Atualmente, atuo profissionalmente na área, construindo soluções web robustas e escaláveis, com foco em entregar código limpo, performance e uma boa experiência para o usuário.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React.js" title="React.js" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" title="Tailwind" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" title="Fastify" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" title="Bitbucket" />
-<img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Jira" title="Jira" />
-
-<br/>
-<br/>
-
----
-
-### ✉️ Contato
-<p>
-  <a href="https://www.linkedin.com/in/viniciuscruz7" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>  
-  <a href="mailto:viniciusrobertopro@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23E60023?style=for-the-badge&logo=gmail&logoColor=white">
+<p align="center">
+  <a href="https://linkedin.com/in/viniciuscruz7" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-006CB3?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:viniciusrvcruz@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-<p>
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-sage-nine-86.vercel.app/api/top-langs/?username=viniciusrvcruz&show_icons=true&theme=tokyonight&layout=compact" 
-  />
+# 🚀 Sobre mim
+
+Sou **Vinicius Cruz**, **Desenvolvedor Full Stack** com foco na construção de aplicações escaláveis, performáticas e bem estruturadas.
+
+Possuo **mais de 2 anos de experiência com Vue.js e Laravel**, atuando no desenvolvimento de APIs, implementação de novas funcionalidades, otimização de performance e revisão de código.  
+Busco sempre escrever **código limpo, organizado e sustentável**, contribuindo tanto para a evolução do produto quanto para o crescimento do time.
+
+---
+
+# 💡 Principais Habilidades
+
+- ⚙️ Desenvolvimento de aplicações **Full-Stack**
+- 🔗 Planejamento e desenvolvimento de **APIs REST**
+- 🧹 **Refatoração e padronização de código**
+- 🧪 Implementação de **testes automatizados**
+- 🚀 **Otimização de performance e consultas**
+- 📊 Criação de **filtros dinâmicos e automações baseadas em dados**
+- 🤝 Colaboração em equipe com **code review e boas práticas**
+
+> 💭 Foco em escrever código claro, resolver problemas de forma objetiva e construir sistemas robustos e escaláveis.
+
+---
+
+# 🛠 Stack de Tecnologias
+
+### Frontend
+Vue.js · Nuxt · React · Next.js · TypeScript · JavaScript · TailwindCSS · PrimeVue · HTML · CSS
+
+### Backend
+PHP · Laravel · Node.js · APIs REST · Redis
+
+### Banco de Dados & Cloud
+MySQL · PostgreSQL · Amazon S3
+
+### Ferramentas
+Docker · Git · GitHub · Bitbucket · JIRA · Scrum · Kanban
+
+<p align="center">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 </p>
+
+---
+
+# 💼 Experiência Profissional
+
+### 👨‍💻 Desenvolvedor Full Stack — Olie Flow AI  
+📅 Out 2025 — Atual | Remoto
+
+- Redução de **~70% no tempo de execução** de um job de mensagens através de processamento em **chunks com paginação ordenada e liberação de memória**.
+- Liberação de acesso à **API gerencial** para integrações externas.
+- Implementação de **soft delete, URLs assinadas no S3, notificações de login por e-mail e metas compostas**.
+- Participação em **code reviews e refatorações críticas**.
+
+---
+
+### 💻 Desenvolvedor Full Stack Trainee — Olie Flow AI  
+📅 Jan 2025 — Out 2025 | Remoto
+
+- Planejamento e desenvolvimento da **API pública da plataforma (REST)**.
+- Redesign completo do **tema da aplicação** seguindo nova identidade visual.
+- Migração de **JWT Auth para Laravel Sanctum**.
+- Implementação de **Spatie Query Builder** para filtros dinâmicos.
+- Upgrade **PrimeVue v3 → v4** e melhorias de performance em tabelas.
+
+---
+
+### 🧑‍💻 Desenvolvedor Full Stack Estagiário — EnterScience  
+📅 Out 2023 — Dez 2024 | Remoto
+
+- Implementação de novas funcionalidades e correção de bugs.
+- Execução de **testes funcionais e exploratórios**.
+- Participação em **code reviews**.
+- Apresentações técnicas internas para compartilhamento de conhecimento.
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=viniciusrvcruz&count_private=true&show_icons=true&theme=transparent"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrvcruz&layout=compact&theme=transparent"/>
+</p>
+
+---
+
+# 🌎 Contato
+
+- 🔗 LinkedIn: https://linkedin.com/in/viniciuscruz7  
+- 📧 Email: **viniciusrvcruz@gmail.com**
+
+---
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆️%20Voltar_ao_topo-006CB3?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- FOOTER -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:006CB3,100:00182E&height=120&section=footer"/>

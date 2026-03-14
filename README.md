@@ -116,7 +116,7 @@ Docker · Git · GitHub · Bitbucket · JIRA · Scrum · Kanban
 # 🌎 Contato
 
 - 🔗 LinkedIn: https://linkedin.com/in/viniciuscruz7  
-- 📧 Email: **viniciusrvcruz@gmail.com**
+- 📧 Email: viniciusrvcruz@gmail.com
 
 ---
 

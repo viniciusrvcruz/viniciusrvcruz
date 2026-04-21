@@ -71,39 +71,6 @@ Docker · Git · GitHub · Bitbucket · JIRA · Scrum · Kanban
 
 ---
 
-# 💼 Experiência Profissional
-
-### 👨‍💻 Desenvolvedor Full Stack — Olie Flow AI  
-📅 Out 2025 — Atual | Remoto
-
-- Redução de **~70% no tempo de execução** de um job de mensagens através de processamento em **chunks com paginação ordenada e liberação de memória**.
-- Liberação de acesso à **API gerencial** para integrações externas.
-- Implementação de **soft delete, URLs assinadas no S3, notificações de login por e-mail e metas compostas**.
-- Participação em **code reviews e refatorações críticas**.
-
----
-
-### 💻 Desenvolvedor Full Stack Trainee — Olie Flow AI  
-📅 Jan 2025 — Out 2025 | Remoto
-
-- Planejamento e desenvolvimento da **API pública da plataforma (REST)**.
-- Redesign completo do **tema da aplicação** seguindo nova identidade visual.
-- Migração de **JWT Auth para Laravel Sanctum**.
-- Implementação de **Spatie Query Builder** para filtros dinâmicos.
-- Upgrade **PrimeVue v3 → v4** e melhorias de performance em tabelas.
-
----
-
-### 🧑‍💻 Desenvolvedor Full Stack Estagiário — EnterScience  
-📅 Out 2023 — Dez 2024 | Remoto
-
-- Implementação de novas funcionalidades e correção de bugs.
-- Execução de **testes funcionais e exploratórios**.
-- Participação em **code reviews**.
-- Apresentações técnicas internas para compartilhamento de conhecimento.
-
----
-
 # 📊 Estatísticas do GitHub
 
 <p>

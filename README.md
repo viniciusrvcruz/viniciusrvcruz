@@ -1,5 +1,5 @@
 <!-- HEADER GRADIENTE MODERNO -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Vinicius%20Cruz%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:00182E,100:006CB3&fontColor=ffffff&fontSize=40&desc=Desenvolvedor%20Full%20Stack%20|%20Vue%20•%20Laravel%20•%20PHP%20•%20TypeScript&descAlignY=55&descAlign=50&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Vinicius%20Cruz%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:00182E,100:006CB3&fontColor=ffffff&fontSize=40&desc=Desenvolvedor%20Full%20Stack%20|%20PHP%20•%20Laravel%20•%20Vue.js%20•%20TypeScript&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/viniciuscruz7" target="_blank">

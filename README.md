@@ -28,7 +28,6 @@ Busco sempre escrever **código limpo, organizado e sustentável**, contribuindo
 - 🧹 **Refatoração e padronização de código**
 - 🧪 Implementação de **testes automatizados**
 - 🚀 **Otimização de performance e consultas**
-- 📊 Criação de **filtros dinâmicos e automações baseadas em dados**
 - 🤝 Colaboração em equipe com **code review e boas práticas**
 
 > 💭 Foco em escrever código claro, resolver problemas de forma objetiva e construir sistemas robustos e escaláveis.

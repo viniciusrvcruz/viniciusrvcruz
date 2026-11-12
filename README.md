@@ -1,5 +1,5 @@
 <!-- HEADER GRADIENTE MODERNO -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Vinicius%20Cruz%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:00182E,100:006CB3&fontColor=ffffff&fontSize=40&desc=Desenvolvedor%20Full%20Stack%20|%20PHP%20•%20Laravel%20•%20Vue.js%20•%20TypeScript&descAlignY=55&descAlign=50&animation=fadeIn"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Vinicius%20Cruz%20👨‍💻&fontAlign=50&fontAlignY=35&color=0:00182E,100:006CB3&fontColor=ffffff&fontSize=40&desc=Desenvolvedor%20Full%20Stack%20|%20Laravel%20•%20Vue.js%20•%20TypeScript%20•%20IA%2FMCP&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 <p align="center">
   <a href="https://linkedin.com/in/viniciuscruz7" target="_blank">
@@ -14,21 +14,20 @@
 
 # 🚀 Sobre mim
 
-Sou **Vinicius Cruz**, **Desenvolvedor Full Stack** com foco na construção de aplicações escaláveis, performáticas e bem estruturadas.
+Sou **Vinicius Cruz**, **Desenvolvedor Full-Stack** com **mais de 3 anos de experiência** construindo e evoluindo aplicações com **Laravel (PHP)** e **Vue.js/Nuxt**.
 
-Possuo **mais de 2 anos de experiência com Vue.js e Laravel**, atuando no desenvolvimento de APIs, implementação de novas funcionalidades, otimização de performance e revisão de código.  
-Busco sempre escrever **código limpo, organizado e sustentável**, contribuindo tanto para a evolução do produto quanto para o crescimento do time.
+No dia a dia trabalho com **APIs REST**, autenticação, **filas**, **WebSockets**, performance, code review e testes. Gosto de entender o problema antes de implementar e de buscar soluções simples e fáceis de manter.
 
 ---
 
 # 💡 Principais Habilidades
 
-- ⚙️ Desenvolvimento de aplicações **Full-Stack**
-- 🔗 Planejamento e desenvolvimento de **APIs REST**
-- 🧹 **Refatoração e padronização de código**
-- 🧪 Implementação de **testes automatizados**
-- 🚀 **Otimização de performance e consultas**
-- 🤝 Colaboração em equipe com **code review e boas práticas**
+- ⚙️ Desenvolvimento de aplicações **Full-Stack** (Laravel + Vue/Nuxt)
+- 🔗 Planejamento e desenvolvimento de **APIs REST** (incluindo APIs externas multi-tenant)
+- ⚡ **Filas, WebSockets e tempo real** (Reverb, jobs com retentativas)
+- 🤖 Integração de **IA** (Laravel AI, Tools de MCP)
+- 🚀 **Otimização de performance** (queries, cache Redis, chunks)
+- 🧹 **Refatoração, code review e testes** (Pest/PHPUnit)
 
 > 💭 Foco em escrever código claro, resolver problemas de forma objetiva e construir sistemas robustos e escaláveis.
 
@@ -37,16 +36,16 @@ Busco sempre escrever **código limpo, organizado e sustentável**, contribuindo
 # 🛠 Stack de Tecnologias
 
 ### Frontend
-Vue.js · Nuxt · React · Next.js · TypeScript · JavaScript · TailwindCSS · PrimeVue · HTML · CSS
+Vue.js · Nuxt · React · Next.js · TypeScript · JavaScript · TailwindCSS · PrimeVue · Pinia · Zod · HTML · CSS
 
 ### Backend
-PHP · Laravel · Node.js · APIs REST · Redis
+PHP · Laravel · Node.js · Fastify · APIs REST · Laravel Sanctum · JWT · OAuth · Queues · WebSockets · Laravel Reverb · Laravel AI · MCP
 
 ### Banco de Dados & Cloud
-MySQL · PostgreSQL · Amazon S3
+MySQL · PostgreSQL · Redis · Amazon S3 · MongoDB
 
-### Ferramentas
-Docker · Git · GitHub · Bitbucket · JIRA · Scrum · Kanban
+### Ferramentas & Qualidade
+Docker · Git · GitHub · Bitbucket · Pest · PHPUnit · CI/CD · JIRA · Scrum · Kanban
 
 <p align="center">
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
@@ -70,12 +69,16 @@ Docker · Git · GitHub · Bitbucket · JIRA · Scrum · Kanban
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📂 Principais Projetos
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=viniciusrvcruz&count_private=true&show_icons=true&theme=transparent"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrvcruz&layout=compact&theme=transparent"/>
-</p>
+### [Bibleasy](https://bibleasy.com)
+Aplicação web full-stack em produção para leitura da Bíblia. Backend **Laravel + PostgreSQL** com API REST, cache Redis e Auth Sanctum. Frontend **Nuxt 4 + Vue 3 (TypeScript)** com SSR/SPA, Pinia, Zod e TailwindCSS.
+
+### [AuthTodo](https://github.com/viniciusrvcruz/authtodo-frontend)
+To-Do com autenticação multi-provider (**OAuth Google/GitHub** e OTP por e-mail) via cookies HTTP-only e Laravel Sanctum. Frontend Nuxt 4 + Vue 3 (TypeScript).
+
+### [Eventstage](https://github.com/viniciusrvcruz/eventstage-frontend)
+Plataforma de eventos com convites e ranking. Frontend **Next.js + React (TypeScript)** e backend **Fastify + PostgreSQL + Redis + JWT**.
 
 ---
 
